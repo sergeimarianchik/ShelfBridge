@@ -1,0 +1,8 @@
+.env*
+!.env.example
+.runtime/
+.tools/
+test-results/
+node_modules/
+.git/
+.vercel/
